@@ -1,3 +1,28 @@
+# Replica em português: 11 skills do Claude para refazer um app, melhor e com a sua marca
+
+> **Cópia mantida pela [Exos Marketing](https://www.instagram.com/exosmkt/).** O Replica foi criado por **Jake Schincariol ([Jakeschincariol](https://github.com/Jakeschincariol))** e está aqui sob a licença MIT, sem alteração no código. Repositório original: [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill).
+
+## O que ele faz
+
+Você aponta para um app e as skills, em ordem: mapeiam cada tela e funcionalidade, planejam o sistema, refazem o design, reconstroem tela por tela, adicionam o back-end (login, banco, pagamentos), testam tudo atrás de bugs, comparam com o original, leem o que os usuários odeiam (App Store, G2, Reddit e outras) para corrigir na sua versão, criam marca própria, a página de vendas e colocam no ar.
+
+## Instalação em 1 minuto
+
+No Claude Code:
+
+```
+/plugin marketplace add Jakeschincariol/replica-skill
+/plugin install replica-skill@replica-skill
+```
+
+Ou cole no Claude: `https://github.com/Jakeschincariol/replica-skill install skill`. Precisa do Python 3.8 ou mais novo.
+
+**Custos:** as skills são gratuitas; o Claude Code, a hospedagem e os meios de pagamento do seu app têm custo à parte.
+
+**Use com responsabilidade:** ele refaz o que o app *faz* (funcionalidades e fluxos), nunca o código, a marca, o logo ou os textos de ninguém, e só lê o que é público ou da sua própria conta.
+
+---
+
 # The Replica skill
 
 Eleven Claude skills that clone any app. Free, MIT, no signup, no API key,
